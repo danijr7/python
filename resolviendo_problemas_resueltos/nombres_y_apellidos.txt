@@ -1,0 +1,17 @@
+Los datos son:
+
+Nombre: Zapa
+Apellido: Bot14
+-----------
+Nombre: Pelcapo
+Apellido: Alejo
+-----------
+Nombre: BigJ
+Apellido: Gambuza
+-----------
+Nombre: Torito
+Apellido: Flores
+-----------
+Nombre: Barto
+Apellido: Mitre
+-----------
