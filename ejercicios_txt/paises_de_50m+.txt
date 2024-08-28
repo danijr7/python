@@ -1,0 +1,29 @@
+Bangladesh,Dhaka,.bd,164689383
+Brazil,Brasília,.br,212559409
+China,Beijing,.cn,1439323774
+Colombia,Bogotá,.co,50882884
+Democratic Republic of the Congo,Kinshasa,.cd,89561404
+Egypt,Cairo,.eg,102334403
+Ethiopia,Addis Ababa,.et,114963583
+France,Paris,.fr,65273512
+Germany,Berlin,.de,83783945
+India,New Delhi,.in,1380004385
+Indonesia,Jakarta,.id,273523621
+Iran (Islamic Republic of),Tehran,.ir,83992953
+Italy,Rome,.it,60461828
+Japan,Tokyo,.jp,126476458
+Kenya,Nairobi,.ke,53771300
+Mexico,Mexico City,.mx,128932753
+Myanmar,Naypyidaw,.mm,54409794
+Nigeria,Abuja,.ng,206139587
+Pakistan,Islamabad,.pk,220892331
+Philippines,Manila,.ph,109581085
+Republic of Korea,Seoul,.kr,51269183
+Russia,Moscow,.ru,145934460
+South Africa,Pretoria,.za,59308690
+Thailand,Bangkok,.th,69799978
+Turkey,Ankara,.tr,84339067
+United Kingdom of Great Britain and Northern Ireland,London,.uk,67886004
+United Republic of Tanzania,Dodoma,.tz,59734213
+United States of America,Washington,.us,331449281
+Vietnam,Hanoi,.vn,97338583

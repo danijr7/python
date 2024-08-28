@@ -1,0 +1,20 @@
+r: read from an existing file.
+
+w: write to a file. If the file already exist,
+it is overwritten.
+
+a: Append data to a file. If the file already
+exists, the data being appended is added
+to the end of the file.
+
+x: Write to a file only if that file does not
+already exist.
+
+r+: Read an existing file and write to it,
+without overwriting any existing data.
+
+w+: Write to a file and read from it. If the file
+already exists, it is overwritten.
+
+a+: Append data to a file and read from it,
+without overwriting any existing data.

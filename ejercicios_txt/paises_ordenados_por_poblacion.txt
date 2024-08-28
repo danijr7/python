@@ -1,0 +1,191 @@
+CN: China,Beijing,.cn,1439323774
+IN: India,New Delhi,.in,1380004385
+US: United States of America,Washington,.us,331449281
+ID: Indonesia,Jakarta,.id,273523621
+PK: Pakistan,Islamabad,.pk,220892331
+BR: Brazil,Brasília,.br,212559409
+NG: Nigeria,Abuja,.ng,206139587
+BD: Bangladesh,Dhaka,.bd,164689383
+RU: Russia,Moscow,.ru,145934460
+MX: Mexico,Mexico City,.mx,128932753
+JP: Japan,Tokyo,.jp,126476458
+ET: Ethiopia,Addis Ababa,.et,114963583
+PH: Philippines,Manila,.ph,109581085
+EG: Egypt,Cairo,.eg,102334403
+VN: Vietnam,Hanoi,.vn,97338583
+CD: Democratic Republic of the Congo,Kinshasa,.cd,89561404
+TR: Turkey,Ankara,.tr,84339067
+IR: Iran (Islamic Republic of),Tehran,.ir,83992953
+DE: Germany,Berlin,.de,83783945
+TH: Thailand,Bangkok,.th,69799978
+GB: United Kingdom of Great Britain and Northern Ireland,London,.uk,67886004
+FR: France,Paris,.fr,65273512
+IT: Italy,Rome,.it,60461828
+TZ: United Republic of Tanzania,Dodoma,.tz,59734213
+ZA: South Africa,Pretoria,.za,59308690
+MM: Myanmar,Naypyidaw,.mm,54409794
+KE: Kenya,Nairobi,.ke,53771300
+KR: Republic of Korea,Seoul,.kr,51269183
+CO: Colombia,Bogotá,.co,50882884
+ES: Spain,Madrid,.es,46754783
+UG: Uganda,Kampala,.ug,45741000
+AR: Argentina,Buenos Aires,.ar,45195777
+DZ: Algeria,Algiers,.dz,43851043
+SD: Sudan,Khartoum,.sd,43849269
+UA: Ukraine,Kyiv,.ua,43733759
+IQ: Iraq,Baghdad,.iq,40222503
+AF: Afghanistan,Kabul,.af,38928341
+PL: Poland,Warsaw,.pl,37846605
+CA: Canada,Ottawa,.ca,37742157
+MA: Morocco,Rabat,.ma,36910558
+SA: Saudi Arabia,Riyadh,.sa,34813867
+UZ: Uzbekistan,Tashkent,.uz,33469199
+PE: Peru,Lima,.pe,32971846
+AO: Angola,Luanda,.ao,32866268
+MY: Malaysia,Kuala Lumpur,.my,32365998
+MZ: Mozambique,Maputo,.mz,31255435
+GH: Ghana,Accra,.gh,31072945
+YE: Yemen,Sana,.ye,29825968
+NP: Nepal,Kathmandu,.np,29136808
+VE: Venezuela,Caracas,.ve,28435943
+MG: Madagascar,Antananarivo,.mg,27691019
+CM: Cameroon,Yaounde,.cm,26545864
+CI: Côte D'Ivoire,Yamoussoukro,.ci,26378275
+KP: Democratic People's Republic of Korea,Pyongyang,.kp,25778815
+AU: Australia,Canberra,.au,25499881
+NE: Niger,Niamey,.ne,24206636
+LK: Sri Lanka,Colombo,.lk,21413250
+BF: Burkina Faso,Ouagadougou,.bf,20903278
+ML: Mali,Bamako,.ml,20250834
+RO: Romania,Bucharest,.ro,19237682
+MW: Malawi,Lilongwe,.mw,19129955
+CL: Chile,Santiago,.cl,19116209
+KZ: Kazakhstan,Astana,.kz,18776707
+ZM: Zambia,Lusaka,.zm,18383956
+GT: Guatemala,Guatemala,.gt,17915567
+EC: Ecuador,Quito,.ec,17643060
+SY: Syria,Damascus,.sy,17500657
+NL: Netherlands,Amsterdam,.nl,17134873
+SN: Senegal,Dakar,.sn,16743930
+KH: Cambodia,Phnum Penh,.kh,16718971
+TD: Chad,N'Djamena,.td,16425859
+SO: Somalia,Mogadishu,.so,15893219
+ZW: Zimbabwe,Harare,.zw,14862927
+GN: Guinea,Conakry,.gn,13132792
+RW: Rwanda,Kigali,.rw,12952209
+BJ: Benin,Porto Novo,.bj,12123198
+BI: Burundi,Gitega,.bi,11890781
+TN: Tunisia,Tunis,.tn,11818618
+BO: Bolivia (Plurinational State of),La Paz,.bo,11673029
+BE: Belgium,Brussels,.be,11589616
+HT: Haiti,Port-au-Prince,.ht,11402533
+CU: Cuba,Havana,.cu,11326616
+SS: South Sudan,Juba,.ss,11193729
+DO: Dominican Republic,Santo Domingo,.do,10847904
+CZ: Czech Republic,Prague,.cz,10708982
+GR: Greece,Athens,.gr,10423056
+JO: Jordan,Amman,.jo,10203140
+PT: Portugal,Lisbon,.pt,10196707
+AZ: Azerbaijan,Baku,.az,10139175
+SE: Sweden,Stockholm,.se,10099270
+HN: Honduras,Tegucigalpa,.hn,9904608
+AE: United Arab Emirates,Abu Dhabi,.ae,9890400
+HU: Hungary,Budapest,.hu,9660350
+TJ: Tajikistan,Dushanbe,.tj,9537642
+BY: Belarus,Minsk,.by,9449321
+AT: Austria,Vienna,.at,9006400
+PG: Papua New Guinea,Port Moresby,.pg,8947027
+IL: Israel,Jerusalem,.il,8655541
+CH: Switzerland,Bern,.ch,8654618
+TG: Togo,Lome,.tg,8278737
+SL: Sierra Leone,Freetown,.sl,7976985
+LA: Lao People's Democratic Republic,Vientiane,.la,7275556
+PY: Paraguay,Asunción,.py,7132530
+BG: Bulgaria,Sofia,.bg,6948445
+LY: Libya,Tripoli,.ly,6871287
+LB: Lebanon,Beirut,.lb,6825442
+NI: Nicaragua,Managua,.ni,6624554
+KG: Kyrgyzstan,Bishkek,.kg,6524191
+SV: El Salvador,San Salvador,.sv,6486201
+TM: Turkmenistan,Ashgabat,.tm,6031187
+SG: Singapore,Singapore,.sg,5850343
+DK: Denmark,Copenhagen,.dk,5792203
+FI: Finland,Helsinki,.fi,5540718
+CG: Congo,Brazzaville,.cg,5518092
+SK: Slovakia,Bratislava,.sk,5459643
+NO: Norway,Oslo,.no,5421242
+OM: Oman,Muscat,.om,5106622
+CR: Costa Rica,San José,.cr,5094114
+LR: Liberia,Monrovia,.lr,5057677
+IE: Ireland,Dublin,.ie,4937796
+CF: Central African Republic,Bangui,.cf,4829764
+NZ: New Zealand,Wellington,.nz,4822233
+MR: Mauritania,Nouakchott,.mr,4649660
+PA: Panama,Panama,.pa,4314768
+KW: Kuwait,al-Kuwayt,.kw,4270563
+HR: Croatia,Zagreb,.hr,4105268
+MD: Moldova,Chisinau,.md,4033963
+GE: Georgia,Tbilisi,.ge,3989175
+ER: Eritrea,Asmara,.er,3546427
+UY: Uruguay,Montevideo,.uy,3473727
+BA: Bosnia and Herzegovina,Sarajevo,.ba,3280815
+MN: Mongolia,Ulaanbaatar,.mn,3278292
+AM: Armenia,Yerevan,.am,2963234
+JM: Jamaica,Kingston,.jm,2961161
+QA: Qatar,Doha,.qa,2881060
+AL: Albania,Tirana,.al,2877800
+LT: Lithuania,Vilnius,.lt,2722291
+NA: Namibia,Windhoek,.na,2540916
+GM: Gambia (Republic of The),Banjul,.gm,2416664
+BW: Botswana,Gaborone,.bw,2351625
+GA: Gabon,Libreville,.ga,2225728
+LS: Lesotho,Maseru,.ls,2142252
+MK: North Macedonia,Skopje,.mk,2083380
+SI: Slovenia,Ljubljana,.si,2078932
+GW: Guinea-Bissau,Bissau,.gw,1967998
+LV: Latvia,Riga,.lv,1886202
+BH: Bahrain,Manama,.bh,1701583
+GQ: Equatorial Guinea,Malabo,.gq,1402985
+TT: Trinidad and Tobago,Port of Spain,.tt,1399491
+EE: Estonia,Tallinn,.ee,1326539
+TL: Timor-Leste,Dili,.tl,1318442
+MU: Mauritius,Port Louis,.mu,1271767
+CY: Cyprus,Nicosia,.cy,1207361
+SZ: Eswatini,Mbabane,.sz,1160164
+DJ: Djibouti,Djibouti,.dj,988002
+FJ: Fiji,Suva,.fj,896444
+KM: Comoros,Moroni,.km,869595
+BT: Bhutan,Thimphu,.bt,771612
+SB: Solomon Islands,Honiara,.sb,686878
+ME: Montenegro,Podgorica,.me,628062
+LU: Luxembourg,Luxemburg,.lu,625976
+SR: Suriname,Paramaribo,.sr,586634
+CV: Cape Verde,Praia,.cv,555988
+MV: Maldives,Male,.mv,540542
+MT: Malta,Valletta,.mt,441539
+BN: Brunei,Bandar Seri Begawan,.bn,437483
+BZ: Belize,Belmopan,.bz,397621
+BS: Bahamas,Nassau,.bs,393248
+IS: Iceland,Reykjavik,.is,341250
+VU: Vanuatu,Vila,.vu,307150
+BB: Barbados,Bridgetown,.bb,287371
+ST: São Tomé and Príncipe,Sao Tome,.st,219161
+WS: Samoa,Apia,.ws,198410
+LC: Saint Lucia,Castries,.lc,183629
+KI: Kiribati,Bairiki,.ki,119446
+FM: Micronesia (Federated States of),Palikir,.fm,115021
+GD: Grenada,Saint Georges,.gd,112519
+VC: Saint Vincent and the Grenadines,Kingstown,.vc,110947
+TO: Tonga,Nukualofa,.to,105697
+SC: Seychelles,Victoria,.sc,98340
+AG: Antigua and Barbuda,Saint Johns,.ag,97928
+AD: Andorra,Andorra la Vella,.ad,77265
+DM: Dominica,Roseau,.dm,71991
+MH: Marshall Islands,Rita,.mh,59194
+KN: Saint Kitts and Nevis,Basseterre,.kn,53192
+MC: Monaco,Monaco,.mc,39244
+LI: Liechtenstein,Vaduz,.li,38137
+SM: San Marino,San Marino,.sm,33938
+PW: Palau,Melekeok,.pw,18092
+TV: Tuvalu,Vaiaku,.tv,11792
+NR: Nauru,Yaren,.nr,10834
