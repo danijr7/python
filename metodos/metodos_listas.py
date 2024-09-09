@@ -11,6 +11,7 @@ lista.remove('daniel') #remueve un elemento de la lista por su valor, si encuent
 lista2.sort(reverse = True) #ordena la lista de manera ascendente (si usamos el parametro <reverse = True> los ordena en reversa)
 lista.reverse() #invierte los elementos de una lista
 #lista.clear() #elimina todos los elementos de la lista
+lista.copy() #copia la lista
 print(lista)
 
 #creando una lista con un rango especifico
